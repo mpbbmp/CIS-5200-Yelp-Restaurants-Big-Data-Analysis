@@ -1,4 +1,4 @@
-## Yelp Project Schema Code for Creating Tables:
+## Yelp Project Schema Code for Creating Tables in Hadoop:
 
 1)	BUSINESS TABLE
 CREATE EXTERNAL TABLE business4 (
