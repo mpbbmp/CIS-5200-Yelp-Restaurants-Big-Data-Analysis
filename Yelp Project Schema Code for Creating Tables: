@@ -1,4 +1,4 @@
-YELP PROJECT SCHEMA CODE FOR CREATING TABLES:
+## Yelp Project Schema Code for Creating Tables:
 
 1)	BUSINESS TABLE
 CREATE EXTERNAL TABLE business4 (
