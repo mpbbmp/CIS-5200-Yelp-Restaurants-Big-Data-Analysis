@@ -1,4 +1,4 @@
-# Yelp Restaurants Big Data Analysis
+## Yelp Restaurants Big Data Analysis
 
 A CIS 5200 Big Data project performing data analysis and extracting insights on Yelp 2017 Dataset using Hadoop HDFS, HiveQL and Tableau.
 
@@ -19,9 +19,7 @@ A CIS 5200 Big Data project performing data analysis and extracting insights on 
  
 ----
 ##### Dataset
-Compressed Source Dataset - 2.28 GB
-
-Uncompressed Dataset- 5.79 GB
-
-Dataset link: https://www.yelp.com/dataset
+- Compressed Source Dataset - 2.28 GB 
+- Uncompressed Dataset- 5.79 GB 
+- Dataset link: https://www.yelp.com/dataset 
 
