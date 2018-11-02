@@ -22,3 +22,4 @@ A CIS 5200 Big Data project performing data analysis and extracting insights on 
 - Uncompressed Dataset- 5.79 GB 
 - Dataset link: https://www.yelp.com/dataset 
 
+![](WIDSposter.png)
